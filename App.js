@@ -33,7 +33,7 @@ export default function App() {
   };
 
   const handleTextPress = () => {
-    setDisplayText('Level Teller is awesome!');
+    setDisplayText('Thank you for using my app!');
   };
 
   return (
