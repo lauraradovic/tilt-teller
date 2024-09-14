@@ -1,6 +1,7 @@
 To run the application, follow the steps below:
 
 **Clone the Repository:**
+
 Inside the terminal, execute the following command:
 
 git clone https://github.com/lauraradovic/tilt-teller.git
