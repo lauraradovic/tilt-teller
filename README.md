@@ -12,6 +12,7 @@ To move into the project directory use the command:
 cd tilt-teller
 
 **Install Dependencies:**
+
 Inside the terminal, enter the command to install all necessary packages:
 
 npm install
@@ -23,6 +24,7 @@ npm install --global expo-cli
 This allows you to use the 'expo' command globally for project interactions.
 
 **Start the Application:**
+
 Enter the command:
 
 expo start
@@ -30,6 +32,7 @@ expo start
 After the project starts, follow the instructions to choose the platform (Android, iOS) or scan the QR code using the Expo Go app on your device.
 
 **If you encounter difficulties, you can use the following command:**
+
 
 npx expo start --tunnel
 
