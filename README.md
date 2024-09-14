@@ -6,7 +6,8 @@ Inside the terminal, execute the following command:
 git clone https://github.com/lauraradovic/tilt-teller.git
 
 **Navigate to the Cloned Directory:**
-Move into the project directory using the command:
+
+To move into the project directory use the command:
 
 cd tilt-teller
 
