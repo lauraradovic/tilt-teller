@@ -18,7 +18,7 @@ Inside the terminal, enter the command to install all necessary packages:
 
 npm install
 
-Then, install Expo CLI globally with:
+**Then, install Expo CLI globally with:**
 
 npm install --global expo-cli
 
